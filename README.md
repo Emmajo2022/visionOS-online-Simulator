@@ -123,6 +123,6 @@ As with any simulator, VisionOS simulators have certain limitations and capabili
 
 * Software Installation
 
-*Depth Experience
+* Depth Experience
 
-*Eye tracking
+* Eye tracking
