@@ -31,7 +31,7 @@ SimuOS offers a comprehensive collection of online visionOS simulators and emula
 
 *No downloads required for instant access.
 
-## Max Thomas's Quest Pro visionOS Simulator
+## [Max Thomas's Quest Pro visionOS Simulator](https://www.youtube.com/watch?v=-ILkA3eqyXo&t=6s)
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Max Thomas's innovative work bridges the gap between the visionOS simulator and 
 
 *Integration with Quest Link software.
 
-## Zhuowei Zhang's ALVR-Powered VisionOS Simulator
+## [Zhuowei Zhang's ALVR-Powered VisionOS Simulator](https://twitter.com/zhuowei/status/1678226947560579072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1678226947560579072%7Ctwgr%5Ea4485fbddeb8d5d88a6b373de4b73d7a28f1b984%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fsilzee.com%2Fvisionos-simulator%2F)
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Building upon Max Thomas's efforts, Zhuowei Zhang enhances the visionOS simulato
 
 *Potential for enhanced user experience.
 
-## Chance Miller (Supernova)
+## [Chance Miller (Supernova)](https://www.youtube.com/watch?v=NggUSn7UmDI)
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Supernova Technologies introduces a budget-friendly version of "visionOS" for vi
 
 *Showcases app grid from Vision Pro introduction video.
 
-## ThrillSeeker
+## [ThrillSeeker]([https://www.google.com](https://www.youtube.com/watch?v=rjyUuLR8zoo))
 
 <div align="center">
 
