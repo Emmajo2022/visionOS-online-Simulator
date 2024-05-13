@@ -23,7 +23,7 @@ Vision Pro simulators and emulators provide users with unparalleled access to th
 
 SimuOS offers a comprehensive collection of online visionOS simulators and emulators, providing users with a seamless experience to explore the Apple Vision Pro interface. With no downloads required, users can access a range of visionOS features directly from their web browsers. The platform supports all major operating systems and web browsers, ensuring accessibility for users worldwide.
 
-*Capabilities'*
+*Capabilities*
 
 * Seamless exploration of Apple Vision Pro features.
 
