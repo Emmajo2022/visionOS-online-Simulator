@@ -31,7 +31,7 @@ SimuOS offers a comprehensive collection of online visionOS simulators and emula
 
 *No downloads required for instant access.
 
-##Max Thomas's Quest Pro visionOS Simulator
+## Max Thomas's Quest Pro visionOS Simulator
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Max Thomas's innovative work bridges the gap between the visionOS simulator and 
 
 *Integration with Quest Link software.
 
-##Zhuowei Zhang's ALVR-Powered VisionOS Simulator
+## Zhuowei Zhang's ALVR-Powered VisionOS Simulator
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Supernova Technologies introduces a budget-friendly version of "visionOS" for vi
 
 *Showcases app grid from Vision Pro introduction video.
 
-##ThrillSeeker
+## ThrillSeeker
 
 <div align="center">
 
@@ -111,7 +111,7 @@ ThrillSeeker presents an intriguing visionOS emulator designed for the Quest Pro
 
 *Requires active user input for interaction.
 
-###Limitations and Capabilities
+### Limitations and Capabilities
 
 As with any simulator, VisionOS simulators have certain limitations and capabilities. While they provide access to the user interface and feature updates, functionalities like software installation and system configurations may be limited. These limitations vary based on the simulator type and development method.
 
