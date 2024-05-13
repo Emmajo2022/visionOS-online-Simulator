@@ -25,11 +25,11 @@ SimuOS offers a comprehensive collection of online visionOS simulators and emula
 
 *Capabilities'*
 
-*Seamless exploration of Apple Vision Pro features.
+* Seamless exploration of Apple Vision Pro features.
 
-*Accessible on all major operating systems and web browsers.
+* Accessible on all major operating systems and web browsers.
 
-*No downloads required for instant access.
+* No downloads required for instant access.
 
 ## [Max Thomas's Quest Pro visionOS Simulator](https://www.youtube.com/watch?v=-ILkA3eqyXo&t=6s)
 
@@ -45,11 +45,11 @@ Max Thomas's innovative work bridges the gap between the visionOS simulator and 
 
 *Capabilities*
 
-*3D display of visionOS simulator on Quest Pro VR headset.
+* 3D display of visionOS simulator on Quest Pro VR headset.
 
-*Potential for immersive VR interaction.
+* Potential for immersive VR interaction.
 
-*Integration with Quest Link software.
+* Integration with Quest Link software.
 
 ## [Zhuowei Zhang's ALVR-Powered VisionOS Simulator](https://twitter.com/zhuowei/status/1678226947560579072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1678226947560579072%7Ctwgr%5Ea4485fbddeb8d5d88a6b373de4b73d7a28f1b984%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fsilzee.com%2Fvisionos-simulator%2F)
 
@@ -65,11 +65,11 @@ Building upon Max Thomas's efforts, Zhuowei Zhang enhances the visionOS simulato
 
 *Capabilities*
 
-*Wireless functionality for improved performance.
+* Wireless functionality for improved performance.
 
-*Integration with Quest's passthrough, hand tracking, and eye tracking features (planned).
+* Integration with Quest's passthrough, hand tracking, and eye tracking features (planned).
 
-*Potential for enhanced user experience.
+* Potential for enhanced user experience.
 
 ## [Chance Miller (Supernova)](https://www.youtube.com/watch?v=NggUSn7UmDI)
 
@@ -85,11 +85,11 @@ Supernova Technologies introduces a budget-friendly version of "visionOS" for vi
 
 *Capabilities*
 
-*Budget-friendly option for VR headset users.
+* Budget-friendly option for VR headset users.
 
-*Utilizes eye tracking and hand gesture interaction.
+* Utilizes eye tracking and hand gesture interaction.
 
-*Showcases app grid from Vision Pro introduction video.
+* Showcases app grid from Vision Pro introduction video.
 
 ## [ThrillSeeker]([https://www.google.com](https://www.youtube.com/watch?v=rjyUuLR8zoo))
 
@@ -105,23 +105,23 @@ ThrillSeeker presents an intriguing visionOS emulator designed for the Quest Pro
 
 *Capabilities*
 
-*Utilizes eye tracking and hand tracking capabilities.
+* Utilizes eye tracking and hand tracking capabilities.
 
-*Interaction through hand gestures within the headset's view.
+* Interaction through hand gestures within the headset's view.
 
-*Requires active user input for interaction.
+* Requires active user input for interaction.
 
 ### Limitations and Capabilities
 
 As with any simulator, VisionOS simulators have certain limitations and capabilities. While they provide access to the user interface and feature updates, functionalities like software installation and system configurations may be limited. These limitations vary based on the simulator type and development method.
 
-*Advanced Developments
+* Advanced Developments
 
-*Gesture Controls
+* Gesture Controls
 
-*Optic ID
+* Optic ID
 
-*Software Installation
+* Software Installation
 
 *Depth Experience
 
