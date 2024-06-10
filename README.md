@@ -107,7 +107,7 @@ Supernova Technologies offers a cost-effective visionOS emulator for VR headsets
 * Displays app grid from the Vision Pro introduction.
 
 
-## [ThrillSeeker]((https://www.youtube.com/watch?v=rjyUuLR8zoo))
+## [ThrillSeeker](https://www.youtube.com/watch?v=rjyUuLR8zoo)
 
 <div align="center">
 
